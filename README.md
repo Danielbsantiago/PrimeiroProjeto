@@ -4,7 +4,7 @@
 
 Este projeto é uma automação desenvolvida em Python com o objetivo de reduzir tarefas manuais e aumentar a produtividade através de scripts que simulam ações humanas no navegador.
 
-Ele utiliza Selenium para automatizar interações como cliques, preenchimento de formulários e coleta de dados.
+Ele utiliza Selenium para automatizar interações como cliques e coleta de dados.
 
 ---
 
@@ -13,14 +13,13 @@ Ele utiliza Selenium para automatizar interações como cliques, preenchimento d
 - Python  
 - Selenium WebDriver  
 - ChromeDriver / EdgeDriver  
-- Pandas (caso seja utilizado tratamento de dados)
+- Pandas
 
 ---
 
 ## Funcionalidades
 
 - Automação de navegação em sites  
-- Preenchimento automático de formulários  
 - Coleta de dados da web (web scraping)  
 - Execução de tarefas repetitivas automaticamente  
 - Organização de dados extraídos  
