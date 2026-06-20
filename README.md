@@ -1,20 +1,34 @@
-# PrimeiroProjeto
-#Automação com Python
+# Primeiro Projeto - Automação com Python
 
-Projeto de automação de tarefas utilizando Python, com foco em reduzir atividades manuais e aumentar a produtividade através de scripts inteligentes.
+##  Sobre o projeto
 
-🚀 Sobre o projeto
+Este projeto é uma automação desenvolvida em Python com o objetivo de reduzir tarefas manuais e aumentar a produtividade através de scripts que simulam ações humanas no navegador.
 
-Este projeto realiza automações em navegação web e/ou processos repetitivos, utilizando Python e Selenium para simular ações humanas no navegador, como cliques, preenchimento de formulários e extração de dados.
+Ele utiliza Selenium para automatizar interações como cliques, preenchimento de formulários e coleta de dados.
 
-🧰 Tecnologias utilizadas
-Python 🐍
-Selenium WebDriver 🌐
-Pandas (caso use tratamento de dados)
-ChromeDriver / EdgeDriver
-⚙️ Funcionalidades
-Automação de navegação em sites
-Preenchimento automático de formulários
-Coleta de dados da web (web scraping)
-Execução de tarefas repetitivas sem intervenção manual
-Organização e exportação de dados (quando aplicável)
+---
+
+## Tecnologias utilizadas
+
+- Python  
+- Selenium WebDriver  
+- ChromeDriver / EdgeDriver  
+- Pandas (caso seja utilizado tratamento de dados)
+
+---
+
+## Funcionalidades
+
+- Automação de navegação em sites  
+- Preenchimento automático de formulários  
+- Coleta de dados da web (web scraping)  
+- Execução de tarefas repetitivas automaticamente  
+- Organização de dados extraídos  
+
+---
+
+## Como executar o projeto
+
+### 1. Clonar o repositório
+```bash
+git clone https://github.com/Danielbsantiago/PrimeiroProjeto.git
